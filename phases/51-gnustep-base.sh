@@ -28,7 +28,7 @@ echo "### Running configure"
 
 echo
 echo "### Building"
-make -j`nproc` messages=no
+make messages=no
 
 echo
 echo "### Installing"

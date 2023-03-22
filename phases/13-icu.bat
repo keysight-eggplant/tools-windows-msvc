@@ -1,4 +1,4 @@
-@echo off
+@echo on
 setlocal
 
 set GITHUB_REPO=unicode-org/icu
